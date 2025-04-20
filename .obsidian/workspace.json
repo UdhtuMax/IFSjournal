@@ -21,14 +21,12 @@
             "id": "df6c9c2d4e6f3c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "human_cid/dia-16-04-25.md",
-                "mode": "source",
-                "source": false
+                "file": "z_img/cursed.png"
               },
-              "icon": "lucide-file",
-              "title": "dia-16-04-25"
+              "icon": "lucide-image",
+              "title": "cursed"
             }
           }
         ],
@@ -198,9 +196,13 @@
   },
   "active": "df6c9c2d4e6f3c63",
   "lastOpenFiles": [
+    "z_img/R.gif",
+    "human_cid/dia-16-04-25.md",
+    "z_img/cursed.png",
+    "readme.txt",
+    "Novo(a) Documento de Texto.txt",
     "human_cid/Conceitos/durkheim.md",
     "human_cid/Conceitos",
-    "human_cid/dia-16-04-25.md",
     "math_fund/dia-11-04-25.md",
     "math_logic/Slides_logic",
     "math_fund/Slides 1/16-04-25-Contexto_socio-histórico_do_surgimento_das_Ciências_Sociais-8f13bcf_V2CJgUh.pdf",
@@ -213,11 +215,9 @@
     "human_cid",
     "math_logic/conceitos/preposicoes.md",
     "math_logic/conceitos",
-    "math_fund/Conceitos",
     "math_logic/conceitos/boolean.md",
     "math_fund/Conceitos/Relações de Pertinência.md",
     "math_fund/Conceitos/Teoria de Conjuntos.md",
-    "math_logic",
     "Teoria de Conjuntos.md",
     "Welcome.md"
   ]
