@@ -1,0 +1,10 @@
+{
+  "findText": "(resposta)",
+  "replaceText": "[[answer_11042025|(resposta)]]",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}
