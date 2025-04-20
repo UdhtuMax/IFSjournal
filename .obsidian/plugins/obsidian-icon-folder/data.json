@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBackpack",
+      "LiBaby",
+      "LiAlbum",
       "LiAnchor",
-      "LiAArrowDown",
-      "LiAperture"
+      "LiAArrowDown"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +36,11 @@
   },
   "math_logic": "LiAperture",
   "math_fund": "LiAArrowDown",
-  "Respostas": "LiAnchor"
+  "Respostas": "LiAnchor",
+  "math_fund/Conceitos": "LiAlbum",
+  "math_logic/conceitos": "LiAlbum",
+  "human_cid": "LiBaby",
+  "human_cid/Slides_cid": "LiBackpack",
+  "math_fund/Slides_fund": "LiBackpack",
+  "math_logic/Slides_logic": "LiBackpack"
 }

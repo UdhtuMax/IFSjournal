@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math_logic/preposicoes.md",
+                "file": "human_cid/dia-16-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "preposicoes"
+              "title": "dia-16-04-25"
             }
           }
         ],
@@ -198,17 +198,26 @@
   },
   "active": "df6c9c2d4e6f3c63",
   "lastOpenFiles": [
-    "math_logic/dia-16-04-25.md",
-    "math_logic/preposicoes.md",
-    "math_logic/boolean.md",
-    "math_fund/dia-11-04-2025.md",
-    "math_fund/Relações de Pertinência.md",
-    "math_fund/Teoria de Conjuntos.md",
+    "math_fund/dia-11-04-25.md",
+    "human_cid/dia-16-04-25.md",
+    "math_logic/Slides_logic",
+    "math_fund/Slides 1/16-04-25-Contexto_socio-histórico_do_surgimento_das_Ciências_Sociais-8f13bcf_V2CJgUh.pdf",
+    "math_fund/Slides_fund",
+    "human_cid/Slides_cid/16-04-25-Contexto_socio-histórico_do_surgimento_das_Ciências_Sociais-8f13bcf_V2CJgUh.pdf",
+    "human_cid/Slides_cid",
+    "math_logic/dia-15-04-25.md",
+    "Untitled.md",
+    "Respostas/answer_11042025.md",
+    "human_cid",
+    "math_logic/conceitos/preposicoes.md",
+    "math_logic/conceitos",
+    "math_fund/Conceitos",
+    "math_logic/conceitos/boolean.md",
+    "math_fund/Conceitos/Relações de Pertinência.md",
+    "math_fund/Conceitos/Teoria de Conjuntos.md",
     "math_logic",
     "Teoria de Conjuntos.md",
-    "Respostas/answer_11042025.md",
     "Respostas",
-    "math_fund",
     "Welcome.md"
   ]
 }
