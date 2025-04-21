@@ -21,12 +21,12 @@
             "id": "df6c9c2d4e6f3c63",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "video",
               "state": {
-                "file": "z_img/cursed.png"
+                "file": "z_img/AAAAAA1.mp4"
               },
-              "icon": "lucide-image",
-              "title": "cursed"
+              "icon": "lucide-file",
+              "title": "AAAAAA1"
             }
           }
         ],
@@ -194,13 +194,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7cb59e4919118a7b",
+  "active": "df6c9c2d4e6f3c63",
   "lastOpenFiles": [
+    "z_img/cursed.png",
+    "z_img/AAAAAA1.mp4",
     "z_img/AAAAAA1.mov",
     "README.md",
     "z_img/R.gif",
     "human_cid/dia-16-04-25.md",
-    "z_img/cursed.png",
     "readme.txt",
     "Novo(a) Documento de Texto.txt",
     "human_cid/Conceitos/durkheim.md",
@@ -214,9 +215,7 @@
     "math_logic/dia-15-04-25.md",
     "Untitled.md",
     "Respostas/answer_11042025.md",
-    "human_cid",
     "math_logic/conceitos/preposicoes.md",
-    "math_logic/conceitos",
     "math_logic/conceitos/boolean.md",
     "math_fund/Conceitos/Relações de Pertinência.md",
     "math_fund/Conceitos/Teoria de Conjuntos.md",
