@@ -4,6 +4,7 @@ no qual mostra os assuntos que foram mostrados na aula e ao clicar nos links voc
 também está presentes as atividades e respostas delas mas não garanto nada instantâneo.
 
 Isso aqui é um WIP(Trabalho em progresso)
+
 <a href="https://github.com/UdhtuMax/IFSjournal/blob/master/z_img/AAAAAA1.mp4">
   <img src="https://github.com/UdhtuMax/IFSjournal/blob/master/z_img/universitariomedio.gif" alt="Vapo">
 </a>
