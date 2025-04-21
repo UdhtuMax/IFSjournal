@@ -5,4 +5,8 @@ também está presentes as atividades e respostas delas mas não garanto nada in
 
 Isso aqui é um WIP(Trabalho em progresso)
 
-![Video description](https://github.com/UdhtuMax/IFSjournal/blob/master/z_img/AAAAAA1.mp4)
+![Video description](https://github.com/UdhtuMax/IFSjournal/blob/master/z_img/universitariomedio.gif)
+
+<a href="https://github.com/UdhtuMax/IFSjournal/blob/master/z_img/AAAAAA1.mp4">
+  <img src="https://github.com/UdhtuMax/IFSjournal/blob/master/z_img/universitariomedio.gif" alt="Vapo">
+</a>
